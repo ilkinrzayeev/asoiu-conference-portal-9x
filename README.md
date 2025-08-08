@@ -12,6 +12,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 ## Deployment
 
+
 Your project is live at:
 
 **[https://vercel.com/ilkinrzayev07700-gmailcoms-projects/v0-pixel-perfect-frontend-code](https://vercel.com/ilkinrzayev07700-gmailcoms-projects/v0-pixel-perfect-frontend-code)**
